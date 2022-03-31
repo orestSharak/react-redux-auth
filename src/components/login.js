@@ -31,7 +31,7 @@ const Login = ({login}) => {
 
   return (
     <Container className="d-flex align-items-center justify-content-center" style={{minHeight: "calc(100vh - 68px)"}}>
-      <div className="w-100" style={{maxWidth: '400px'}}>
+      <div className="w-100" style={{maxWidth: '500px'}}>
         <Card>
           <Card.Body>
             <h2 className="text-center mb-4">Log In</h2>
