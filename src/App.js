@@ -1,6 +1,5 @@
 import React, { useLayoutEffect } from "react";
 import { HashRouter, Routes, Route } from "react-router-dom";
-import "bulma/css/bulma.css";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 // Redux
