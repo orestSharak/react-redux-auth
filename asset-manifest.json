@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-redux-auth/static/css/main.685dea8f.chunk.css",
+    "main.js": "/react-redux-auth/static/js/main.f21bc91e.chunk.js",
+    "main.js.map": "/react-redux-auth/static/js/main.f21bc91e.chunk.js.map",
+    "runtime-main.js": "/react-redux-auth/static/js/runtime-main.f850d6da.js",
+    "runtime-main.js.map": "/react-redux-auth/static/js/runtime-main.f850d6da.js.map",
+    "static/css/2.f8731e4e.chunk.css": "/react-redux-auth/static/css/2.f8731e4e.chunk.css",
+    "static/js/2.e4a1560a.chunk.js": "/react-redux-auth/static/js/2.e4a1560a.chunk.js",
+    "static/js/2.e4a1560a.chunk.js.map": "/react-redux-auth/static/js/2.e4a1560a.chunk.js.map",
+    "index.html": "/react-redux-auth/index.html",
+    "precache-manifest.0dfb99540e80c613aea21923edb4d93d.js": "/react-redux-auth/precache-manifest.0dfb99540e80c613aea21923edb4d93d.js",
+    "service-worker.js": "/react-redux-auth/service-worker.js",
+    "static/css/2.f8731e4e.chunk.css.map": "/react-redux-auth/static/css/2.f8731e4e.chunk.css.map",
+    "static/css/main.685dea8f.chunk.css.map": "/react-redux-auth/static/css/main.685dea8f.chunk.css.map",
+    "static/js/2.e4a1560a.chunk.js.LICENSE.txt": "/react-redux-auth/static/js/2.e4a1560a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f850d6da.js",
+    "static/css/2.f8731e4e.chunk.css",
+    "static/js/2.e4a1560a.chunk.js",
+    "static/css/main.685dea8f.chunk.css",
+    "static/js/main.f21bc91e.chunk.js"
+  ]
+}
