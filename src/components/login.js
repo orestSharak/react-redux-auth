@@ -30,7 +30,7 @@ const Login = ({login}) => {
   }
 
   return (
-    <Container className="d-flex align-items-center justify-content-center" style={{minHeight: "100vh"}}>
+    <Container className="d-flex align-items-center justify-content-center" style={{minHeight: "calc(100vh - 68px)"}}>
       <div className="w-100" style={{maxWidth: '400px'}}>
         <Card>
           <Card.Body>
